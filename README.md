@@ -1,4 +1,7 @@
 # Network-Operations-Centre-1
+
+![](images/1.jpg) 
+
 # 1. Introduction
 
 This document outlines the initial scope and design of the Network Operations Centre (NOC) v0.0.1, a tool developed using Python and Streamlit to monitor the health and status of network devices (servers).
